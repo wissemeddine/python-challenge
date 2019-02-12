@@ -1,2 +1,2 @@
 # python-challenge
-analyzing financial record through python script 
+analyzing financial data through python script 
